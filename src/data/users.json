@@ -1,0 +1,24 @@
+[
+	{
+		"username": "batman",
+		"password": "password",
+		"profile": {
+			"username": "batman",
+			"firstName": "Bruno",
+			"lastName": "Diaz",
+			"email": "bruno.diaz@facebook.com",
+			"avatar": "https://www.kindpng.com/picc/m/78-786207_user-avatar-png-user-avatar-icon-png-transparent.png"
+		}
+	},
+	{
+		"username": "catwoman",
+		"password": "password",
+		"profile": {
+			"username": "catwoman",
+			"firstName": "Irena",
+			"lastName": "Dubrovna",
+			"email": "irena.dubrovna@facebook.com",
+			"avatar": "https://www.pngkit.com/png/full/115-1150342_user-avatar-icon-iconos-de-mujeres-a-color.png"
+		}
+	}
+]

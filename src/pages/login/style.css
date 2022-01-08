@@ -1,0 +1,11 @@
+@import '~theme/colors.css';
+
+.login {
+	height: 100%;
+	margin: 0 !important;
+	background-color: var(--primary-light-color);
+}
+
+.login .ui.card .header {
+	text-transform: uppercase;
+}

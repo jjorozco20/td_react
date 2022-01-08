@@ -1,0 +1,19 @@
+import { Meta, Story, Canvas } from '@storybook/addon-docs/blocks';
+import { BrowserRouter } from 'react-router-dom';
+import Application from 'application';
+
+const Template = (properties) => (
+	<BrowserRouter basename="/">
+		<Application {...properties} />
+	</BrowserRouter>
+);
+
+<Meta title="MDX/Application" component={application} />
+
+# Application
+
+<Canvas>
+  <Story name="Default---">
+    {Template.bind({})}
+   </Story>
+</Canvas>

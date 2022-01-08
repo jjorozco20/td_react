@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+
+# Editors or IDEs
+.vscode/
+
+# Project
+build/
+dist/
+node_modules/
+docs/
+logs/
+coverage/

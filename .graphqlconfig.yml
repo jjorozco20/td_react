@@ -1,0 +1,9 @@
+projects:
+  td_react:
+    schemaPath: graphql/github-schema.json
+    includes: ["**/*.gql", "**/*.graphql"]
+    extensions:
+      endpoints:
+        default: https://api.github.com/graphql
+        headers:
+        Authorization: "Bearer 8aeb791fc895857d6a51847ef30cbf7d0212a5aa"
